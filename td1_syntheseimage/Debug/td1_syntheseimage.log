@@ -1,0 +1,9 @@
+﻿  Object3D.cpp
+  Raytracer.cpp
+  Scene.cpp
+D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Scene.cpp(25,12): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Scene.cpp(26,20): warning C4018: '<' : incompatibilité signed/unsigned
+D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Scene.cpp(28,21): warning C4018: '<' : incompatibilité signed/unsigned
+  Sphere.cpp
+  Génération de code en cours...
+  td1_syntheseimage.vcxproj -> D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Debug\td1_syntheseimage.exe

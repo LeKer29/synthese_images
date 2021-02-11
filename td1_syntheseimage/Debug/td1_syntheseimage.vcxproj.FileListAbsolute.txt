@@ -1,0 +1,2 @@
+D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Debug\td1_syntheseimage.exe
+D:\ESME\INGE3\SYNTHESE_IMAGE\cours1\td1_syntheseimage\Debug\td1_syntheseimage.pdb
